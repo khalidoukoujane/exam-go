@@ -4,7 +4,7 @@ import chalk from "chalk";
 import gradient from "gradient-string";
 import inquirer from "inquirer";
 import {createSpinner} from "nanospinner";
-import getRandomEx from "./system/GetRandomQuest/GetQuest.js";
+import getRandomEx from "./.system/GetRandomQuest/GetQuest.js";
 
 let userName;
 console.clear();
